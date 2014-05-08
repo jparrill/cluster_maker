@@ -4,11 +4,11 @@ cluster_maker
 Tool to use for testing operations in MongoDB clusters
 
 Requirements:
-	- Vagrant
-	- Virtualbox & Guest Additions
-	- python2.7
-	- pip
-	- Virtualenv
+- Vagrant
+- Virtualbox & Guest Additions
+- python2.7
+- pip
+- Virtualenv
 
 How it works:
 - Clone the Repository and execute this
